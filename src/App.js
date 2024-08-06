@@ -14,6 +14,7 @@ class App extends Component {
 
         this.frases = [
             'Sigam-me os bons',
+            'Foi sem querer querendo',
             'São 48 centavos de leite derramados na minha mesa',
             'Eu conheço o Maicão',
             'Cara ela tá tão na sua',
